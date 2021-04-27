@@ -33,7 +33,7 @@ export class Thumbnail extends Component{
             <div className="col-4 col-6-medium col-12-small canClick" onClick={this.showLightbox}>
                 <h3 className="project-title">{title}</h3>
                 <div className="image fit">
-                    <img src={image} alt="Project Image"/>
+                    <img src={image} />
                 </div>
             </div>
 

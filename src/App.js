@@ -20,7 +20,7 @@ function App() {
       <Thumbnail
       demo="https://kensehmanthejeweler.com/"
       code="#"
-      image="images/jeweler.jpg"
+      image="images/Jeweler.jpg"
       title="Jeweler"
       description="A redsigne for a jeweler. Created with WordPress."
        />
