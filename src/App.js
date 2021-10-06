@@ -22,7 +22,7 @@ function App() {
       code="#"
       image="images/Jeweler.jpg"
       title="Jeweler"
-      description="A redsigne for a jeweler. Created with WordPress."
+      description="A redesign for a jeweler. Created with WordPress."
        />
        <Thumbnail
       demo="images/turf.jpg"
